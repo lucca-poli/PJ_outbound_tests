@@ -1,0 +1,13 @@
+{
+  "name": "outbound_tests",
+  "version": "1.0.0",
+  "description": "Various tests for PJ's outbound automation",
+  "main": "index.js",
+  "repository": "git@github.com:lucca-poli/PJ_outbound_tests.git",
+  "author": "lucca-poli <lucca10azevedo@usp.br>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^19.11.1"
+  }
+}
